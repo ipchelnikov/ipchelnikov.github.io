@@ -1,6 +1,5 @@
 theme: jekyll-theme-hacker
-title: Igor Pchelnikov
+title: Hi, I'm Igor Pchelnikov
+description: C++ developer with deep experience in Android & Linux embedded systems
 github:
-  CV_pdf: http://CV_pdf
-  CV_docx: http://CV_docx
-  CV_HTML: http://CV_docx
+  repository_url: https://github.com/ipchelnikov
